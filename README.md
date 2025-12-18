@@ -1,16 +1,28 @@
-## Hi there 👋
+# Redicom Angola
 
-<!--
-**redicom-ao/redicom-ao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao repositório oficial da **Redicom Angola**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Nós
+A **Redicom Angola** é uma empresa especializada em soluções de **telecomunicações, redes e tecnologia**, oferecendo serviços inovadores para empresas e organizações em Angola.
+
+---
+
+## Serviços
+- Infraestrutura de Redes  
+- Telecomunicações  
+- Consultoria Tecnológica  
+- Suporte Técnico  
+
+---
+
+## Contactos
+- **Website:** [www.redicom.ao](https://www.redicom.ao)  
+- **Email:** info@redicom.ao  
+- **Telefone:** +244 XXX XXX XXX  
+- **Endereço:** Luanda, Angola  
+
+---
+
+
